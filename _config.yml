@@ -12,7 +12,7 @@ title                    : "Valerie Boctor"
 title_separator          : "-"
 name                     : &name "Valerie Boctor"
 description              : &description "I am an Economics PhD Candidate at UC Berkeley, specializing in consumer finance and empirical macroeconomics."
-url                      : "https://github.com/valerieboctor" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://valerieboctor.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "valerieboctor/valerieboctor.github.io"
 
