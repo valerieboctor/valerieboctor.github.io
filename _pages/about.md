@@ -12,3 +12,5 @@ I am a PhD Candidate in the Economics Department at the University of California
 In 2021, I collaborated with the economists at the Bank for International Settlements to analyze the impacts of fiscal deficits on inflation risk during the COVID-19 crisis. Our work was featured in the [International Monetary Fund Seminars Recommended Reading](https://meetings.imf.org/-/media/AMSM/Files/AM2022/Seminars/2022RR-Debate-on-the-Global-Economy.ashx) in 2022.
 
 Prior to my doctoral studies, I graduated *summa cum laude* from Syracuse University with a Bachelor of Science in Economics, Political Science, and Modern Foreign Languages (Arabic and French). During my time at Syracuse, I also served as a Policy Analyst in the Compliance Risk Policy Division at the Office of the Comptroller of the Currency, where I focused on regulatory compliance and risk management policies for commercial banks.
+
+I am currently on the 2024-2025 job market. Please feel free to download my [resume](../files/2024-10-18-resume.pdf) or [CV](../files/2024-10-24-CV.pdf).
