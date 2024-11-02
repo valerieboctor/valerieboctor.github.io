@@ -79,7 +79,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: auto;
 
   @include breakpoint($large) {
     display: block;
@@ -88,9 +88,10 @@
   }
 
   img {
-    max-width: 250px;  /* Increase the size of the image */
-    border-radius: 50%; /* This makes the image circular */
-    object-fit: cover;  /* Ensures the image covers the circle properly */
+    max-width: 300px; /* Increase size as desired */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 0; /* Remove circular shape */
+    object-fit: cover;
 
     @include breakpoint($large) {
       padding: 5px;
