@@ -52,7 +52,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/research/mortgage-forbearance</loc>
-<lastmod>2024-10-15T00:00:00+00:00</lastmod>
+<lastmod>2024-11-05T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/2014-spring-teaching-1</loc>
@@ -122,11 +122,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/files/2024-10-24-CV.pdf</loc>
-<lastmod>2024-10-24T23:31:33+00:00</lastmod>
+<lastmod>2024-11-04T02:14:31+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/2024-10-24-Resume.pdf</loc>
 <lastmod>2024-10-24T23:22:19+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/Boctor_Dissertation_11_02_24.pdf</loc>
+<lastmod>2024-11-05T08:36:51+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/paper1.pdf</loc>
