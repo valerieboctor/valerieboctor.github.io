@@ -8,7 +8,7 @@ date: 2024-10-15
 date_label: "Latest Version"
 #venue: 'Journal 1'
 slidesurl: 'https://github.com/valerieboctor/Mortgage-Forbearance/blob/main/slides_09_12_24.pdf'
-paperurl: #'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://github.com/valerieboctor/Mortgage-Forbearance/blob/main/Boctor_Dissertation_11_02_24.pdf'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
