@@ -11,7 +11,8 @@ locale                   : "en-US"
 title                    : "Valerie Boctor"
 title_separator          : "-"
 name                     : &name "Valerie Boctor"
-description              : &description "I am an Economics PhD Candidate at UC Berkeley, specializing in consumer finance and empirical macroeconomics."
+description: &description "Berkeley-trained Ph.D. Economist with expertise in consumer finance, stress testing, and macro-financial risk."
+
 url                      : "https://valerieboctor.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "valerieboctor/valerieboctor.github.io"
@@ -23,9 +24,9 @@ author:
   # Biographic information
   avatar           : "git_pic.jpg"
   name             : "Valerie Boctor"
-  bio              : "Economics PhD Candidate at UC Berkeley researching consumer finance and empirical macro"
-  location         : "Berkeley, CA"
-  employer         : "University of California, Berkeley"
+  bio              : "Berkeley-trained Ph.D. Economist with expertise in consumer finance, stress testing, and macro-financial risk."
+  location         : "Washington, DC Metro Area"
+  employer         : "Capital One (incoming)| University of California, Berkeley"
   email            : "valboctor@berkeley.edu" 
 
   # Academic websites
