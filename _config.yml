@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Valerie Boctor"
 title_separator          : "-"
 name                     : &name "Valerie Boctor"
-description: &description "Berkeley-trained Ph.D. Economist with expertise in consumer finance, stress testing, and macro-financial risk."
+description: &description "Berkeley Ph.D. Economist with expertise in causal inference, credit risk management, and stress testing"
 
 url                      : "https://valerieboctor.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "git_pic.jpg"
   name             : "Valerie Boctor"
-  bio              : "Berkeley Ph.D. Economist with expertise in causal inference, credit risk management, and stress testing."
+  bio              : "Berkeley Ph.D. Economist with expertise in causal inference, credit risk management, and stress testing"
   location         : "Washington, DC Metro Area"
   employer         : "Capital One"
   email            : "valboctor@berkeley.edu" 
