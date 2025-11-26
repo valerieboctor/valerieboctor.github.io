@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "git_pic.jpg"
   name             : "Valerie Boctor"
-  bio              : "Berkeley-trained Ph.D. Economist with expertise in consumer finance, stress testing, and macro-financial risk."
+  bio              : "Berkeley Ph.D. Economist with expertise in causal inference, credit risk management, and stress testing."
   location         : "Washington, DC Metro Area"
-  employer         : "Capital One (incoming)"
+  employer         : "Capital One"
   email            : "valboctor@berkeley.edu" 
 
   # Academic websites
@@ -216,9 +216,13 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  other:
+  blog:
     output: true
     permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /recipes/:title/
+
   # portfolio:
     # output: true
     # permalink: /:collection/:path/
@@ -265,10 +269,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _other
+  # _blog
   - scope:
       path: ""
-      type: other
+      type: blog  
     values:
       layout: 
       author_profile: true
