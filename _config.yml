@@ -216,12 +216,10 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  blog:
+  other:
     output: true
     permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /recipes/:title/
+
 
   # portfolio:
     # output: true
@@ -269,10 +267,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _blog
+  # _other
   - scope:
       path: ""
-      type: blog  
+      type: other 
     values:
       layout: 
       author_profile: true
