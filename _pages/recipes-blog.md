@@ -3,11 +3,11 @@ title: "Recipes + Blog"
 permalink: /recipes-blog/
 layout: archive
 author_profile: true
-entries_layout: grid   # or 'list' if you prefer
+entries_layout: grid
 ---
 
-{% assign recipes = site.recipes | default: site.collections.recipes.docs %}
-{% assign blog    = site.blog    | default: site.collections.blog.docs %}
+{% assign recipes = site.documents | where_exp: "doc", "doc.collection == 'recipes'" %}
+{% assign blog = site.documents | where_exp: "doc", "doc.collection == 'blog'" %}
 
 {% assign all_entries = recipes | concat: blog | sort: "date" | reverse %}
 
