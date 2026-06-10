@@ -15,4 +15,4 @@ My previous experience includes roles at Capital One, the Bank for International
 
 Prior to my doctoral studies, I graduated summa cum laude from Syracuse University with a Bachelor of Science in Economics, Political Science, and Modern Foreign Languages, with concentrations in Arabic and French. While at Syracuse, I also served as a Compliance Risk Policy Analyst in the Compliance Risk Policy Division at the Office of the Comptroller of the Currency, where I focused on regulatory compliance and risk management policies for commercial banks.
 
-Please feel free to download my [resume](../files/current-resume.pdf) or [CV](../files/2024-10-24-CV.pdf).
+Outside of work, I enjoy developing recipes for bespoke cakes and desserts for special occassions. See the 'Other' tab for more.
