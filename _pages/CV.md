@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /CV
 ---
-<iframe src="{{ "../files/2024-10-24-CV.pdf" | relative_url }}" width="850" height="1000"></iframe>
+<iframe src="{{ "../files/current-cv.pdf" | relative_url }}" width="850" height="1000"></iframe>
