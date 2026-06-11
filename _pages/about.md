@@ -15,4 +15,4 @@ Prior to Google, I held roles at Capital One, the Bank for International Settlem
 
 Before beginning my doctoral studies, I graduated summa cum laude from Syracuse University with a Bachelor of Science in Economics, Political Science, and Modern Foreign Languages, with concentrations in Arabic and French. While at Syracuse, I also served as a Compliance Risk Policy Analyst in the Compliance Risk Policy Division at the Office of the Comptroller of the Currency, where I focused on regulatory compliance and risk management policies for commercial banks.
 
-Outside of work, I enjoy developing recipes for bespoke cakes and desserts for special occasions. You can learn more in the 'Other' tab of this website.
+Outside of work, I enjoy developing recipes and creating bespoke cakes and desserts for special occasions. You can learn more in the 'Other' tab of this website.
